@@ -1,5 +1,5 @@
 # d2l-environment
-Docker images for "Dive into Deep Learning".
+Docker images for "Dive into Deep Learning (Chinese)".
 
 ## Overview
 This repository provides Docker images to help users easily set up their environment for [Dive into Deep Learning(PyTorch)](https://d2l.ai/). Using Docker ensures that all users, regardless of their local setup, can have a consistent and reproducible environment.
