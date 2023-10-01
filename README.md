@@ -13,6 +13,10 @@ This Docker image has been successfully tested on the following hardware configu
   - **GPU**: NVIDIA GTX1050 4G
   - **DRAM**: 8G + 16G
 
+After all the required parts installed, we can broswe the link: localhost:8888
+
+![D2l-PyTorch](imgs/book.png)
+
 ## Setting up Docker for GPU
 
 To utilize the NVIDIA GPU when running the Docker container, you'll need to set up NVIDIA support for Docker.
