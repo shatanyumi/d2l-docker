@@ -1,4 +1,4 @@
-# d2l-environment
+# d2l-docker
 Docker images for "Dive into Deep Learning (Chinese)".
 
 ## Overview
@@ -74,7 +74,7 @@ If you'd like to build the image yourself:
 1. Clone this repository:
 
 ```
-git clone https://github.com/shatanyumi/d2l-environment.git
+git clone https://github.com/shatanyumi/d2l-docker.git
 cd d2l-environment
 ```
 
