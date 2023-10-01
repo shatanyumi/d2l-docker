@@ -22,5 +22,5 @@ jobs:
       run: docker build . --file Dockerfile --tag ${{ secrets.DOCKER_HUB_USERNAME }}/d2l-pytorch:$(date +%s)
 
     - name: Push the Docker image to Docker Hub
-      run: docker push ${{ secrets.DOCKER_HUB_USERNAME }}/d2l-pytorch:$(date +%s)
+      run: docker push ${{ secrets.DOCKER_HUB_USERNAME }}/d2l-pytorch:latest
 
